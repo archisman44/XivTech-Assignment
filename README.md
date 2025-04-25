@@ -45,6 +45,12 @@ A responsive React + Redux Toolkit application that tracks real-time cryptocurre
 ## Demo
 [(http://127.0.0.1:3002/abc.html)]
 
+
+## Demo video
+https://github.com/user-attachments/assets/5bc81621-3934-433e-86f5-a44c493a69c4
+
+
+
 ## Bonus Features (Not Implemented)
 - Real WebSocket integration (e.g., Binance).
 - Filters/sorting for top gainers.
