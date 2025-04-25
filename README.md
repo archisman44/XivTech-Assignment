@@ -43,7 +43,7 @@ A responsive React + Redux Toolkit application that tracks real-time cryptocurre
 - **Components**: `CryptoTable` renders the asset table, and `App` handles WebSocket initialization and dispatching updates.
 
 ## Demo
-[Insert demo GIF/video link here]
+[(http://127.0.0.1:3002/abc.html)]
 
 ## Bonus Features (Not Implemented)
 - Real WebSocket integration (e.g., Binance).
